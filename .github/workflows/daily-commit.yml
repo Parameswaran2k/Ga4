@@ -9,7 +9,7 @@ jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: 23f2005530@ds.study.iitm.ac.in
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}  # ✅ allows push access
